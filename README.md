@@ -1,5 +1,5 @@
 ### Hi, This is Suhyun Kim! 👋
-#### My major is data analysis and I am studying about the web.
+#### My major is data analysis and I'm studying about the web.
 ##### 💌 myksh0903@naver.com
 
 ![suhyun-guri's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyun-guri&show_icons=true&theme=monokai)
