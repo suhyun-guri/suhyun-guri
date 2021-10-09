@@ -6,5 +6,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyun-guri&layout=compact&theme=material-palenight&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=suhyun-guri)](https://velog.io/@suhyun-guri) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=suhyun-guri)](https://velog.io/@suhyun-guri) <br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&color=dark)](https://github.com/suhyun-guri/자료구조알고리즘-1.-Intro)
