@@ -1,14 +1,14 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Suhyun%20Kim&fontSize=70&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Suhyun%20Kim&fontSize=70&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 ## Hi, This is Suhyun Kim! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### My major is data analysis and I'm studying about the web development.
 #### 💌 myksh0903@naver.com
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=suhyun-guri)](https://velog.io/@suhyun-guri)  <br>
 
-
+## 📈 Statistics
 ![suhyun-guri's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyun-guri&show_icons=true&theme=monokai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyun-guri&layout=compact&theme=material-palenight&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
-### Language & Tools :
+## 🛠 Language & Tools 🛠
 <p>
   <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="flask" src = "https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
