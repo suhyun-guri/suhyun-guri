@@ -3,7 +3,10 @@
 ## Hi, This is Suhyun Kim! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### My major is data analysis and I'm studying about the web development.
 #### 💌 myksh0903@naver.com
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=suhyun-guri)](https://velog.io/@suhyun-guri)  <br>
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=suhyun-guri)](https://velog.io/@suhyun-guri)  <br> -->
+<a href="https://velog.io/@suhyun-guri" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
+</a>
 
 ## 🛠 Language & Tools 🛠
 <div align="center">
