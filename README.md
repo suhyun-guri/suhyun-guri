@@ -1,12 +1,13 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Suhyun%20Kim&fontSize=70&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
-## Hi, This is Suhyun Kim! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### My major is data analysis and I'm studying about the web development.
-#### 💌 myksh0903@naver.com
-<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=suhyun-guri)](https://velog.io/@suhyun-guri)  <br> -->
+![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=SuhyunKim&fontAlign=78&fontAlignY=30&color=gradient&fontSize=45)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Suhyun%20Kim&fontSize=70&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)-->
+<!-- ## Hi, This is Suhyun Kim! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+### About Me
+[![E-mail Badge](https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:bsm8734@naver.com)](myksh0903@naver.com) 
 <a href="https://velog.io/@suhyun-guri" target="_blank">
   <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
 </a>
+- 🌱 I’m currently learning `Data Analysis`, `Machine Learning`, `Deep Learning`, `Computer Vision` <br>
+
 
 ## 🛠 Language & Tools 🛠
 <div align="center">
