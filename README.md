@@ -1,28 +1,37 @@
+<!-- Head -->
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=SuhyunKim&fontAlign=78&fontAlignY=30&color=gradient&fontSize=45)
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Suhyun%20Kim&fontSize=70&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)-->
 <!-- ## Hi, This is Suhyun Kim! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
+  <img src ="https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+</p>
+
 ### About Me
 [![E-mail Badge](https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:bsm8734@naver.com)](myksh0903@naver.com) 
 <a href="https://velog.io/@suhyun-guri" target="_blank">
   <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
 </a>
+- 🔭 I’m currently looking for a job while studying on my own.
 - 🌱 I’m currently learning `Data Analysis`, `Machine Learning`, `Deep Learning`, `Computer Vision` <br>
 
 
-## 🛠 Language & Tools 🛠
-<div align="center">
-  <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="numpy" src = "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="pandas" src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="sklearn" src = "https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img alt="keras" src = "https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-  <img alt="flask" src = "https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
 
 
-## 📈 Statistics
+
+### 📈 Statistics
 <div align="center">
   
 ![suhyun-guri's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyun-guri&show_icons=true&theme=monokai)
