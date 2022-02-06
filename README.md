@@ -20,7 +20,7 @@
 </p>
 
 ### About Me
-[![E-mail Badge](https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:bsm8734@naver.com)](myksh0903@naver.com) 
+[![E-mail Badge](https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:myksh0903@naver.com)](mailto:myksh0903@naver.com) 
 <a href="https://velog.io/@suhyun-guri" target="_blank">
   <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
 </a>
