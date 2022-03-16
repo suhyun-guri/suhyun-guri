@@ -25,9 +25,13 @@
 ### About Me
 [![E-mail Badge](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:myksh0903@gmail.com)](mailto:myksh0903@gmail.com) 
 [![E-mail Badge](https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:myksh0903@naver.com)](mailto:myksh0903@naver.com) 
+<a href="https://www.linkedin.com/in/%EC%88%98%ED%98%84-%EA%B9%80-848a98200/" target="_blank">
+<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
+</a>
 <a href="https://velog.io/@suhyun-guri" target="_blank">
   <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
 </a>
+
 - 🔭 I’m currently looking for a job while studying on my own.
 - 🌱 I’m currently learning `Data Analysis`, `Machine Learning`, `Deep Learning`, `Computer Vision`, `Algorithm` <br>
 
