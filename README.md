@@ -53,10 +53,10 @@
 | `2021.12.` | [우리나라 농작업 손상의 특성에 대한 다양한 분석](https://github.com/suhyun-guri/Univ_DataAnalysisContest) | 2021 교내 데이터 분석 경진대회, Rank `2`|
 | `2021.11.` | [Flask 도서관 웹 사이트 제작](https://github.com/suhyun-guri/elice-flask-project) |  | -->
 
-<!-- ### Statistics :
+<br>
 <p align="center">
   <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=suhyun-guri&hide=stars&show_icons=true"/> &nbsp;
-</p> -->
+</p> 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyun-guri&layout=compact&theme=material-palenight&langs_count=3)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=suhyun-guri&color=dark)](https://velog.io/@suhyun-guri/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2.-%EB%B0%B0%EC%97%B4%EA%B3%BC-%EB%A6%AC%EC%8A%A4%ED%8A%B8) -->
