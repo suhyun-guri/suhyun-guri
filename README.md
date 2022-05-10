@@ -32,8 +32,7 @@
   <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
 </a>
 
-- 🔭 I’m currently looking for a job while studying on my own.
-- 🌱 I’m currently learning `Data Analysis`, `Machine Learning`, `Deep Learning`, `Computer Vision`, `Algorithm` <br>
+- 🌱 I’m currently learning `Machine Learning`, `Deep Learning`, `Computer Vision`, `Engineering` <br>
 
 
 <!-- ### Educations
