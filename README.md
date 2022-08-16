@@ -30,25 +30,7 @@
   <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
 </a>
 
-- 🌱 I’m currently learning `Machine Learning`, `Deep Learning`, `Computer Vision`, `Engineering` <br>
-
-
-<!-- ### Educations
-
-| Date | Contents 	| Organizaion |
-|-----	|:----------:	|:-----------:|
-| `2021.09.` ~ `2022.03.` 	| [Elice AI Track 3rd](https://aitrack.elice.io/explore) 	| Elice |
-| `2021.05.` ~ `2022.03.` 	| Undergraduate researcher | DS&ML Lab, Suwon Univ.	|
-| `2018.02.` ~ `2022.08.` 	| Department of Data Science  | Suwon University | -->
-<!-- 
-<br>
-
-### Projects
-
-| Date | Project | Results |
-|-------|:--------:|:---------:|
-| `2021.12.` | [우리나라 농작업 손상의 특성에 대한 다양한 분석](https://github.com/suhyun-guri/Univ_DataAnalysisContest) | 2021 교내 데이터 분석 경진대회, Rank `2`|
-| `2021.11.` | [Flask 도서관 웹 사이트 제작](https://github.com/suhyun-guri/elice-flask-project) |  | -->
+- 🌱 I’m currently learning `Machine Learning`, `Deep Learning`, `Data Engineering` <br>
 
 <br>
 <p align="center">
