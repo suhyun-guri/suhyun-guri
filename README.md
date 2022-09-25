@@ -2,11 +2,11 @@
 
 <!-- 뱃지제작 참고 :  https://2dowon.netlify.app/etc/github-badge/ -->
 
-### ✨ About Me 
+## ✨ About Me 
 - Data Engineer at Imweb.
 - I'm interested in data science, data engineering.
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/numpy-013243.svg?style=flat-square&logo=numpy&logoColor=white"/></a>&nbsp
@@ -20,7 +20,8 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 </p>
 
-### 📧 Contact Me
+
+## 📧 Contact Me
 [![E-mail Badge](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:myksh0903@gmail.com)](mailto:myksh0903@gmail.com) 
 [![E-mail Badge](https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:myksh0903@naver.com)](mailto:myksh0903@naver.com) 
 <a href="https://www.linkedin.com/in/%EC%88%98%ED%98%84-%EA%B9%80-848a98200/" target="_blank">
