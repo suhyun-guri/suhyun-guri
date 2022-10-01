@@ -4,7 +4,7 @@
 
 ## ✨ About Me 
 - Data Engineer at Imweb.
-- I'm interested in data science, data engineering.
+- I'm interested in Data science and Data engineering.
 
 ## 🛠 Tech Stack
 <p>
