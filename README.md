@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white"/></a>&nbsp
+<!--   <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white"/></a>&nbsp -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a></a>&nbsp
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/></a>&nbsp
