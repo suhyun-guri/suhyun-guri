@@ -37,7 +37,7 @@
 
 <br>
 <p align="center">
-  
+  <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=suhyun-guri&hide=stars&show_icons=true"/> &nbsp;
 </p> 
 
 <div align="center">
