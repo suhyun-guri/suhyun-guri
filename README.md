@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="https://velog.io/@suhyun-guri" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=black"/>
 </a>
 <a href="https://guri-sh.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://guri-sh.tistory.com/"/>
 
