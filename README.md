@@ -3,7 +3,7 @@
 <!-- 뱃지제작 참고 :  https://2dowon.netlify.app/etc/github-badge/ -->
 
 ## ✨ About Me 
-- Data Engineer at Imweb.
+- Data Engineer at imweb.
 - I'm interested in Data science and Data engineering.
 
 ## 🛠 Tech Stack
